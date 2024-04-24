@@ -194,10 +194,7 @@ def insert_data(channel_data, video_df):
           mydb.commit()
 
 
-#Call the function to insert the data in to SQL
-#insert_data(channel_data, video_df)
-
-
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Creating a streamlit application with the query of the questions given for the data stored in the local database
 
